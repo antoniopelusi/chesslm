@@ -1,0 +1,11 @@
+.venv
+__pycache__
+.DS_Store
+
+chesslm_vocab.json
+chesslm_model.safetensors
+*.tmp*
+
+log
+CuteChess
+CuteChess.AppImage
